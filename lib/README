@@ -1,0 +1,3 @@
+* the paranamer jar is required by the lift-json library
+* logging is required by the commons stuff
+
