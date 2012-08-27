@@ -1,15 +1,5 @@
 package com.alvinalexander.network
 
-import java.io._
-import org.apache.http.{HttpEntity, HttpResponse}
-import org.apache.http.client._
-import org.apache.http.client.methods.HttpGet
-import org.apache.http.impl.client.DefaultHttpClient
-import scala.collection.mutable.StringBuilder
-import scala.xml.XML
-import org.apache.http.params.HttpConnectionParams
-import org.apache.http.params.HttpParams
-
 object NetworkUtils {
 
   /**
